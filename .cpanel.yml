@@ -5,4 +5,5 @@ deployment:
     - /bin/cp -R app $DEPLOYPATH
     - /bin/cp -R assets $DEPLOYPATH
     - /bin/cp -R bootstrap $DEPLOYPATH
-    
+    - /bin/cp -R config $DEPLOYPATH
+
