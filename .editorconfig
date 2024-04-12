@@ -3,10 +3,10 @@ root = true
 [*]
 charset = utf-8
 end_of_line = lf
-indent_size = 45000
+indent_size = 450
 indent_style = space
 insert_final_newline = false
-trim_trailing_whitespace = true
+trim_trailing_whitespace = false
 
 [*.md]
 trim_trailing_whitespace = false
